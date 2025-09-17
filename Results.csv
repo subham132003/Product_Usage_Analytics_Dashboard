@@ -1,0 +1,13 @@
+ user_id signup_date  active_days  sessions  features_used  \
+0        1  2023-01-01            7        70              6   
+1        2  2023-01-02           20        36              7   
+2        3  2023-01-03           29        91              8   
+3        4  2023-01-04           15        67              2   
+4        5  2023-01-05           11        90              8   
+
+   avg_session_time_min  churned  
+0                     5        0  
+1                    30        0  
+2                    23        0  
+3                    26        0  
+4                    14        1
